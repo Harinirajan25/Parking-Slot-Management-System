@@ -1,0 +1,73 @@
+body {
+    display: flex;
+    position: relative;
+    background-image: url("https://cdn.pixabay.com/photo/2017/06/08/17/09/background-2384187_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+h1 {
+    margin-left: 650px;
+}
+
+
+#div1 {
+
+    border: 1px solid black;
+    align-items: center;
+    color: white;
+    width: 400px;
+    height: 350px;
+    padding: 60px;
+    /* padding-top: 2px;  */
+    margin-top: 100px;
+    margin-left: -300px;
+    /* background-color: pink;
+     */
+    background-image: url("https://cdn.pixabay.com/photo/2016/08/21/12/13/cosmic-1609477_960_720.jpg");
+    background-size: 100%;
+    font-size: 30px;
+
+
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+#btn {
+    margin: 20px;
+    margin-left: 150px;
+    font-size: 25px;
+    border-radius: 10px;
+
+}
+
+th,
+td {
+    border: 2px solid white;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 300;
+
+    /* border-collapse: collapse; */
+}
+
+th {
+    background-color: black;
+}
+
+table {
+    border-collapse: collapse;
+    border: 2px solid white;
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 500px;
+    font-size: 25px;
+    color: white;
+    background-image: url("https://cdn.pixabay.com/photo/2019/04/24/17/18/space-4152623_640.jpg");
+
+}
